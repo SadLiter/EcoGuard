@@ -31,3 +31,9 @@ Thumbs.db
 # TOKEN
 
 .env
+
+# gavno
+
+*.pdf
+*.doc
+*.docx
