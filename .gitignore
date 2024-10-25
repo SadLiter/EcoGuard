@@ -1,0 +1,29 @@
+*.png
+
+# Виртуальное окружение
+venv/
+
+# Пакеты
+__pycache__/
+*.py[cod]
+
+# Установленные зависимости
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Конфигурации IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Файлы временных данных
+*.log
+*.tmp
+*.bak
+
+# Системные файлы
+.DS_Store
+Thumbs.db
