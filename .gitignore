@@ -1,7 +1,7 @@
 *.png
 
 # Виртуальное окружение
-venv/
+.venv/
 
 # Пакеты
 __pycache__/
@@ -27,3 +27,7 @@ build/
 # Системные файлы
 .DS_Store
 Thumbs.db
+
+# TOKEN
+
+.env
